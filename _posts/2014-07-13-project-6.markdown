@@ -1,11 +1,12 @@
 ---
+title: Pressure Relief Valve Sleeve
 layout: default
 modal-id: 6
 date: 2014-07-15
-img: ROVER1.png
+img: PRVSleeve.png
 alt: image-alt
-size: 600px
-project-date: April 2014
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+project-date: Sept 2021
+category: Injection Molding
+description: Designed a sleeve for pressure relief valve (PRV) to limit flow rate when venting in vacuum but not in pressure. This was difficult because there were already roughly 30,000 sensors distributed throughout North America and the timeline to roll-out a solution was ASAP. After lots of prototyping and validation testing the sleeve design was implemented because of its simplicity to manufacture and swap out existing sensors that were already sent out. This design change put name on an official patent for first time. 
+
 ---

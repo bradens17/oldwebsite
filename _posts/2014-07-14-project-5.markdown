@@ -1,11 +1,12 @@
 ---
+title: Powered Air Purifying Device
 layout: default
 modal-id: 5
 date: 2014-07-14
 img: PAPR.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+project-date: Jan 2021
+category: SolidWorks
+description: Developed a COVID-19 protective device for health care workers that addresses shortcomings in current PAPRs and PPE. Designed a device that optimizes user comfort (including weight, ergonomics, etc.), and reusability from interviewing and working with doctors and nurses. Developed a viable solution to the preliminary design stage but unable to build a physical prototype due to covid restrictions. As shown in pictures in top right and bottom left, the device uses a fan/motor to pump air through filter and then to user. Focused on failure and risk analysis. Created full FMEA sheet (snip it shown in bottom right) to identify high risk failure modes.Proposed experiments to test and mitigate risks. 
+
 ---

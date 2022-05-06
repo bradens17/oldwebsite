@@ -1,11 +1,11 @@
 ---
+title: Remotely Controlled Vehicle
 layout: default
 modal-id: 4
 date: 2014-07-15
-img: game.png
+img: ROVER1.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+project-date: Oct 2020
+category: Mechanical Design, Arduino
+description: Pictured top left is a project entered in a competition at the University of British Columbia. The goal is to manufacture an operational electrically driven ROV, and to maneuver through different obstacles and terrain. Sustainability, cost, weight and volume were also design considerations. The drive train used two motors held with a 3D printed mount and connected into a gearbox with a 16:1 ratio. The shape of the chassis was guided by a topology optimization simulation in SolidWorks. The material—balsa wood was also determined by looking through a material index software. An Ackermann steering system was used which was powered by a servo motor connected to an Arduino board.            
 ---
